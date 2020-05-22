@@ -1789,6 +1789,7 @@ h4 .threeaction {
     color: #58180d;
     text-align: center;
     -webkit-column-span: all;
+    right: initial;
 }
 
 .phb .footnote a {

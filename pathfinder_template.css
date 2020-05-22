@@ -1605,13 +1605,13 @@ h4 .threeaction {
     position: absolute;
     right: 80px;
     bottom: 37px;
-    width: 200px;
-    font-size: 1.5em;
+    width: 400px;
+    font-size: 1.4em;
     color: #58180d;
     text-align: right;
 }
 
 .phb .footnote a {
-    font-size: 1.5em;
+    font-size: 1.4em;
     color: #58180d;
 }

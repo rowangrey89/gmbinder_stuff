@@ -1780,13 +1780,14 @@ h4 .threeaction {
 }
 
 .phb .footnote {
-    position: absolute;
-    right: 80px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
     bottom: 25px;
     width: 400px;
     font-size: 1.4em;
     color: #58180d;
-    text-align: right;
+    text-align: center;
 }
 
 .phb .footnote a {

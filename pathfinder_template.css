@@ -1248,6 +1248,162 @@ h4 .threeaction {
     padding-right: 12px;
 }
 
+/* Blue Sidebar */
+.bluesidebar {
+    border-image-slice: 35 41 37 41 fill;
+    border-image-width: 60px 60px 60px 60px;
+    border-image-outset: 0px 0px 0px 0px;
+    border-image-repeat: stretch stretch;
+    border-image-source: url("https://www.gmbinder.com/images/Gl8LTE9.png");
+    border-top: 32px solid;
+    border-bottom: 32 solid;
+    margin-left: -3em;
+    margin-right: -3em;
+    padding-left: 2.6em;
+    padding-right: 3em;
+    padding-top: 1.5em;
+    padding-bottom: 40px;
+}
+
+.bluesidebar h2 {
+    font-family: 'Eczar', sans-serif;
+    text-align: center;
+    color: #CFBF80;
+    background-color: #02256E;
+    margin-left: -px;
+    margin-right: -8px;
+    padding-bottom: 8px;
+    margin-top: -5px;
+    margin-bottom: -2px;
+    font-size: 1.5em;
+}
+
+.bluesidebar h3 {
+    font-family: 'Eczar', sans-serif;
+    text-align: center;
+    color: WHITE;
+    background-color: #02256E;
+    margin-left: -px;
+    margin-right: -8px;
+    padding-bottom: 8px;
+    margin-top: -5px;
+    margin-bottom: -2px;
+    font-size: 2em;
+}
+
+.bluesidebar h3 span {
+    text-align: left;
+}
+
+.bluesidebar img {
+    height: 450px;
+    margin-top: -30px;
+    align: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bluesidebar h5 {
+    text-align: left;
+    color: white;
+    background-color: #02256E;
+    margin-left: -px;
+    margin-right: -8px;
+    padding-bottom: 8px;
+    margin-top: 7px;
+    margin-bottom: -2px;
+}
+
+.bluesidebar p,
+.bluesidebar p+p,
+.bluesidebar .flavor,
+.dualbluesidebar .flavor {
+    background-color: #02256E;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: -13px;
+    padding-left: 13px;
+    margin-right: -8px;
+    padding-right: -12px;
+}
+
+.blueseparatorfull {
+    background-image: url("https://www.gmbinder.com/images/gRfVwlG.png");
+    background-size: 390px;
+    height: 35px;
+    margin-right: -20px;
+    margin-left: -14px;
+    margin-top: -6px;
+}
+
+.blueseparatorsmall {
+    background-image: url("https://www.gmbinder.com/images/LlbSin0.png");
+    background-size: 375px;
+    background-position: top center;
+    height: 4px;
+    margin-bottom: 5px;
+    margin-top: -5px;
+    margin-right: -20px;
+    margin-left: -14px;
+}
+
+.bluesidebar .toc {
+    background-image: url("https://www.gmbinder.com/images/Lw65fTb.png"), url("https://www.gmbinder.com/images/kCLyCck.png");
+    background-position: bottom right, top;
+    background-size: 392px, 392px;
+    background-repeat: no-repeat;
+}
+
+/* Dual blue Sidebar */
+.dualbluesidebar {
+    background-image: url("https://www.gmbinder.com/images/JwtgIpO.png"), url("https://www.gmbinder.com/images/SXJd6Hg.png");
+    background-position: bottom left, top left;
+    background-size: 705px, 705px;
+    background-repeat: no-repeat;
+    margin-left: 0.7em;
+    margin-right: -3em;
+    padding-left: 2.6em;
+    padding-right: 3em;
+    padding-top: 3.2em;
+    padding-bottom: 30px;
+}
+
+.dualbluesidebar h5 {
+    text-align: center;
+    color: white;
+    background-color: #02256E;
+    margin-left: px;
+    margin-right: px;
+    padding-bottom: 8px;
+    margin-top: 5px;
+    margin-bottom: -2px;
+}
+
+.dualbluesidebar p,
+.dualbluesidebar p+p {
+    background-color: #02256E;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: -9px;
+    padding-left: 0px;
+    margin-right: -6px;
+    padding-right: 12px;
+}
+
+.phb:nth-child(odd) .dualbluesidebar {
+    margin-left: -25px !important;
+    margin-right: -21px;
+    padding-left: 45px;
+}
+
+/* This code moves tables 35px right on odd pages, avoiding the table overlapping the page's image margin */
+.dualbluesidebar .flavor,
+.dualbluesidebar h5 {
+    margin-left: -15px !important;
+    margin-right: 15px !important;
+}
+
 /* Red Sidebar */
 .redsidebar {
     border-image-slice: 35 41 37 41 fill;

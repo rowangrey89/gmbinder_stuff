@@ -1395,9 +1395,10 @@ h4 .threeaction {
     background-color: #02256E;
     color: white;
     font-family: 'Roboto Condensed', sans-serif;
-    margin-left: -22px;
+    font-size: 1em;
+    margin-left: -9px;
     padding-left: 0px;
-    margin-right: -16px;
+    margin-right: -6px;
     padding-right: 12px;
 }
 
@@ -1557,9 +1558,10 @@ h4 .threeaction {
     background-color: #5E0000;
     color: white;
     font-family: 'Roboto Condensed', sans-serif;
-    margin-left: -22px;
+    font-size: 1em;
+    margin-left: -9px;
     padding-left: 0px;
-    margin-right: -16px;
+    margin-right: -6px;
     padding-right: 12px;
 }
 

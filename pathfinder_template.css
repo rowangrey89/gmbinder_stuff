@@ -1577,6 +1577,7 @@ h4 .threeaction {
 .bookcover {
     display: none;
 }
+
 .p.hb {
     background-image: url('https://www.gmbinder.com/images/sPk1xm4.png'), url('https://www.gmbinder.com/images/EABESdy.png');
 }
@@ -1597,4 +1598,15 @@ h4 .threeaction {
 /* .amiri { opacity: 0.0; } */
 
 .phb#p2 {
-	counter-reset: phb-page-numbers 0;
+    counter-reset: phb-page-numbers 0;
+}
+
+.phb .footnote {
+    position: absolute;
+    right: 80px;
+    bottom: 37px;
+    width: 200px;
+    font-size: .9em;
+    color: #58180d;
+    text-align: right
+}

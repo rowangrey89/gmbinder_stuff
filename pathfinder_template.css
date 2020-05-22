@@ -1330,7 +1330,7 @@ h4 .threeaction {
 
 .blueseparatorfull {
     background-image: url("https://i.imgur.com/dRx5t8v.png");
-    background-size: 390px;
+    background-size: 100%;
     height: 35px;
     margin: auto;
 /*
@@ -1342,7 +1342,7 @@ h4 .threeaction {
 
 .blueseparatorsmall {
     background-image: url("https://i.imgur.com/FaJLZsk.png");
-    background-size: 375px;
+    background-size: 100%;
     background-position: top center;
     height: 4px;
     margin: auto;
@@ -1492,7 +1492,7 @@ h4 .threeaction {
 
 .redseparatorfull {
     background-image: url("https://i.imgur.com/dRx5t8v.png");
-    background-size: 390px;
+    background-size: 100%;
     height: 35px;
     margin: auto;
 /*
@@ -1504,7 +1504,7 @@ h4 .threeaction {
 
 .redseparatorsmall {
     background-image: url("https://i.imgur.com/FaJLZsk.png");
-    background-size: 375px;
+    background-size: 100%;
     background-position: top center;
     height: 4px;
     margin: auto;

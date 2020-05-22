@@ -1329,7 +1329,7 @@ h4 .threeaction {
 }
 
 .blueseparatorfull {
-    background-image: url("https://www.gmbinder.com/images/gRfVwlG.png");
+    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/gRfVwlG.png");
     background-size: 390px;
     height: 35px;
     margin-right: -20px;
@@ -1338,7 +1338,7 @@ h4 .threeaction {
 }
 
 .blueseparatorsmall {
-    background-image: url("https://www.gmbinder.com/images/LlbSin0.png");
+    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/LlbSin0.png");
     background-size: 375px;
     background-position: top center;
     height: 4px;
@@ -1349,7 +1349,7 @@ h4 .threeaction {
 }
 
 .bluesidebar .toc {
-    background-image: url("https://www.gmbinder.com/images/Lw65fTb.png"), url("https://www.gmbinder.com/images/kCLyCck.png");
+    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/Lw65fTb.png"), url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/kCLyCck.png");
     background-position: bottom right, top;
     background-size: 392px, 392px;
     background-repeat: no-repeat;
@@ -1357,7 +1357,7 @@ h4 .threeaction {
 
 /* Dual blue Sidebar */
 .dualbluesidebar {
-    background-image: url("https://www.gmbinder.com/images/JwtgIpO.png"), url("https://www.gmbinder.com/images/SXJd6Hg.png");
+    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/Lw65fTb.png"), url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/SXJd6Hg.png");
     background-position: bottom left, top left;
     background-size: 705px, 705px;
     background-repeat: no-repeat;

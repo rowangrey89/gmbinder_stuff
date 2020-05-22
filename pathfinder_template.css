@@ -1254,7 +1254,7 @@ h4 .threeaction {
     border-image-width: 60px 60px 60px 60px;
     border-image-outset: 0px 0px 0px 0px;
     border-image-repeat: stretch stretch;
-    border-image-source: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/Gl8LTE9.png");
+    border-image-source: url("https://i.imgur.com/56q9HhX.png");
     border-top: 32px solid;
     border-bottom: 32 solid;
     margin-left: -3em;
@@ -1329,7 +1329,7 @@ h4 .threeaction {
 }
 
 .blueseparatorfull {
-    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/gRfVwlG.png");
+    background-image: url("https://i.imgur.com/AGGpQqk.png");
     background-size: 390px;
     height: 35px;
     margin-right: -20px;
@@ -1338,7 +1338,7 @@ h4 .threeaction {
 }
 
 .blueseparatorsmall {
-    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/LlbSin0.png");
+    background-image: url("https://i.imgur.com/ut87JTr.png");
     background-size: 375px;
     background-position: top center;
     height: 4px;
@@ -1349,7 +1349,7 @@ h4 .threeaction {
 }
 
 .bluesidebar .toc {
-    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/Lw65fTb.png"), url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/kCLyCck.png");
+    background-image: url("https://i.imgur.com/QBSjvPg.png"), url("https://i.imgur.com/K43wFzo.png");
     background-position: bottom right, top;
     background-size: 392px, 392px;
     background-repeat: no-repeat;
@@ -1357,7 +1357,7 @@ h4 .threeaction {
 
 /* Dual blue Sidebar */
 .dualbluesidebar {
-    background-image: url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/Lw65fTb.png"), url("https://raw.githubusercontent.com/rowangrey89/gmbinder_stuff/master/pfcss/SXJd6Hg.png");
+    background-image: url("https://i.imgur.com/QBSjvPg.png"), url("https://i.imgur.com/cve8wPF.png");
     background-position: bottom left, top left;
     background-size: 705px, 705px;
     background-repeat: no-repeat;
